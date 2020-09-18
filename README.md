@@ -1,2 +1,4 @@
 # GRIP-Task2-SupervisedML
-This is a simple linear regression to predict the percentage of marks scored by a student based on the number of hours invested in studies.
+About this Notebook:
+In this notebook, we learn how to use scikit-learn to implement simple linear regression. We download a dataset that is related to percentage score of students based on number of hours studied. Then, we split our data into training and test sets, create a model using training set, Evaluate our model using test set, and finally use model to predict unknown value.
+
